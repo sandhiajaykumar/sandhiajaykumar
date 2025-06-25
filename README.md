@@ -1,5 +1,5 @@
 💫 Ajay Kumar Sandhi 
-<br><br> 🌟 About Me :<br><br>🔭 I’m currently a btech student in vishnu institute of technology .<br>🤝 I’m looking to collaborate on **AI + Education** projects or anything related to MERN stack development.<br>🧠 I’m looking for help with **advanced prompt engineering and vector search integrations**.<br>🌱 I’m currently learning **n8n automation**, **Supabase backend**, and **Gemini API** usage.<br>💬 Ask me about **real-time chat apps**, **Firebase integrations**, or **MERN stack projects**.<br>⚡ Fun fact: I started building full-stack apps before I even realized I was doing full-stack dev!<br>
+<br><br><br>🔭 I’m currently a btech student in vishnu institute of technology .<br>🤝 I’m looking to collaborate on **AI + Education** projects or anything related to MERN stack development.<br>🧠 I’m looking for help with **advanced prompt engineering and vector search integrations**.<br>🌱 I’m currently learning **n8n automation**, **Supabase backend**, and **Gemini API** usage.<br>💬 Ask me about **real-time chat apps**, **Firebase integrations**, or **MERN stack projects**.<br>⚡ Fun fact: I started building full-stack apps before I even realized I was doing full-stack dev!<br>
 
 
 ## 🌐 Socials:
